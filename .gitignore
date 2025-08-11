@@ -4,3 +4,8 @@
 *.pyc
 __pycache__/
 .python-version
+*.onnx
+*.plan
+*.bin
+venv
+.venv
